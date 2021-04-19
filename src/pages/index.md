@@ -7,11 +7,11 @@ subheading: (801) 910-7150 | Contact
 mainpitch:
   title: Why Utah Contract Sewing
   description: >
-UCS was founded by designers and expert sewers and pattern makers to serve the burgeoning 
-Mountain West entrepreneurial community in support and development of their products. 
-We offer soft goods design development, prototyping, pattern making, material and vendor sourcing, 
-sample making, and small run production in SLC, and sourcing, larger production MOQs, 
-and quality control in our Vietnam operations.
+    UCS was founded by designers and expert sewers and pattern makers to serve the burgeoning 
+    Mountain West entrepreneurial community in support and development of their products. 
+    We offer soft goods design development, prototyping, pattern making, material and vendor sourcing, 
+    sample making, and small run production in SLC, and sourcing, larger production MOQs, 
+    and quality control in our Vietnam operations.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
