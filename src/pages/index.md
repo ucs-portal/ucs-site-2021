@@ -21,15 +21,13 @@ intro:
   blurbs:
     - image: /static/img/patterndesignicon-01-150x150.png
       text: >
-        ***Pattern Design***
         We have the ability and expertise to create complex patterns and tech packs for your sewn items, 
         to help with facilitating production. We also offer digital patterning and grading for clothing.
-    - image: /img/coffee-gear.png
+    - image: /static/img/productdesignicon-01-150x150.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Our skilled, hands on designers and artisans will help bring your product from concept to fruition, 
+        the best way possible. Whatever stage of development you are in, we will work closely with you to further 
+        improve and productionize your item.
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
