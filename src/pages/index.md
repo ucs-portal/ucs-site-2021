@@ -3,7 +3,7 @@ templateKey: index-page
 title: Utah Contract Sewing
 image: /img/home-jumbotron.jpg
 heading: Utah Contract Sewing
-subheading: (801) 910-7150 | Contact
+subheading: (801) 910-7150    |    Contact
 mainpitch:
   title: Why Utah Contract Sewing
   description: >
