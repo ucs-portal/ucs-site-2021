@@ -1,19 +1,28 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: Our Team
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Evan Glassman | Founder, Director
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
 
-### Direct sourcing
+![Evan Glassman](/img/img_7935-174x174.jpg "Evan Glassman")
+
+Evan has 25 years experience in collaborative multidisciplinary design, from large scale architectural mosaics to sculptural sinks and other fabrication and installation. Evan’s professional highlights include projects for clients such as the Rockwell Group, Chicago Cubs, CTA, and consulting for Elkay Manufacturing inc.. Evan loves making things and has dedicated his life to it.
+
+### Anya Pautova | Principal Designer, Project Manager
+
+Anya Pautova is a master level student in Saint Petersburg State Stieglitz Academy of Art and Industrial Design. She has variable international experience of working in textile industry with luxury and mass-market brands. She is focused in apparel and accessories design & development. Her credo is to imagine the better and more comfortable future for everyone. She love to bright the world with colours. Snowboarding, hiking, biking, swimming and any kind of great outdoor activities help her with the design projects.
+
+### Quyen Doan | General Manager, Vietnam Operations
+
+Quyen has been focused on business since graduating HCMC University with a double major in English and business. Her first focus was on event planning where she developed and ran one of the most lauded event companies in HCMC (Saigon) Vietnam, organizing and producing large scale corporate events and weddings. Q is now applying her high end abilities to our sourcing, production, and quality control services in Vietnam. When not hard at work Q enjoys reading and hosting parties.
+
+### Anthony Thaxton | Designer, Project Manager
+
 Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### Alberto Hernandez | Master Seamster, Consultant
+
+Alberto is a mechanical genius and has been sewing since the age of 8, at home, and then factories in Mexico City, and Los Angeles. He has a high attention to detail and is adept with a myriad of equipment. When not sewing he enjoys spending time with his family, and watching and playing soccer.
