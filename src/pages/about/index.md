@@ -5,10 +5,6 @@ title: Our Team
 ---
 ### Evan Glassman | Founder, Director
 
-
-
-![Evan Glassman](/img/img_7935-174x174.jpg "Evan Glassman")
-
 Evan has 25 years experience in collaborative multidisciplinary design, from large scale architectural mosaics to sculptural sinks and other fabrication and installation. Evan’s professional highlights include projects for clients such as the Rockwell Group, Chicago Cubs, CTA, and consulting for Elkay Manufacturing inc.. Evan loves making things and has dedicated his life to it.
 
 ### Anya Pautova | Principal Designer, Project Manager
